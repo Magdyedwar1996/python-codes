@@ -1,0 +1,88 @@
+""""
+001
+Ask for the user’s first name and
+display the output message
+Hello [First Name] .
+"""
+
+"""
+002
+Ask for the user’s first name and then ask for
+their surname and display the output message
+Hello [First Name] [Surname]
+"""
+
+""""
+003
+Write code that will display the joke “What do you call a bear with no
+teeth?” and on the next line display the answer “A gummy bear!” Try to
+create it using only one line of code.
+"""
+
+
+"""
+004
+Ask the user to enter
+two numbers. Add
+them together and
+display the answer as
+The total is
+[answer].
+"""
+
+
+"""
+009
+Write a program that will ask for a
+number of days and then will
+show how many hours, minutes
+and seconds are in that number of
+days.
+"""
+
+"""
+10
+There are 2,204 pounds in a kilogram. Ask the
+user to enter a weight in kilograms and convert it
+to pounds.
+"""
+
+"""
+011
+ask the user to enter a number over 100 and then enter a number under
+10 and tell them how many times the smaller number goes into the larger
+number in a user-friendly format.
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
