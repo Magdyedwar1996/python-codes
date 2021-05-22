@@ -24,7 +24,7 @@ print("#"*50)
 
 #///////////////////////////////////////////////////////////////////////////////////
 
-text = "I love merna so much and she is the best girl in the world ," \
+text = " she is the best girl in the world ," \
        " and she is still the best one in my eyes  "
 
 pattern = re.compile("best")
